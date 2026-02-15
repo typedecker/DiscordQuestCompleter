@@ -21,6 +21,8 @@ Upon pressing the launch button, a new window will popup, with a progress bar, a
 
 Note that mentioning the time is optional and it'll default to 900 seconds i.e. 15 mins, if no time is mentioned in the time field. The option is available in case you need to run a game for a shorter or longer duration than the default of 15 minutes.
 
+For games that you already own, you won't lose the original .exe, as it'll temporarily rename the original exe whilst running itself, and then put the original .exe back in place when its done. Also any and all directories manually created during the running of this program are deleted after the "simulated" game has stopped running.
+
 ## Feedback & Suggestions
 
 If anyone has any ideas on things that could be added to this project, or if you'd like to suggest new features, feel free to do so! I'll also try to help out with any issues being faced via the subreddit post or on here <3
