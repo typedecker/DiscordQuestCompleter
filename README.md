@@ -5,7 +5,7 @@ Specific utilities have been added to ensure an easier workflow for those using 
 
 ## How to use it?
 
-In most basic cases, you can just type the name of the game you want to run, mention the number of seconds for which you'd like to "play" that game[typically 900 seconds for 15 mins, but I decided to allow the flexibility of mentioning the time incase a quest or two may require a longer or shorter time duration], leave the address field empty and hit the launch button; the program will typically figure out the launch path on it's own using the steam API.
+In most basic cases, you can just type the name of the game you want to run, mention the number of seconds for which you'd like to "play" that game[leaving the time field empty will make it default to 900 seconds i.e. 15 mins], leave the address field empty and hit the launch button; the program will typically figure out the launch path on it's own using the steam API.
 
 <img width="568" height="513" alt="image" src="https://github.com/user-attachments/assets/94bdaa8e-4811-4f08-82a8-58d6e5292060" />
 
@@ -19,9 +19,9 @@ Upon pressing the launch button, a new window will popup, with a progress bar, a
 
 <img width="601" height="471" alt="image" src="https://github.com/user-attachments/assets/ab2909e8-a72f-46e5-8d66-175d8439b804" />
 
-## Feedback & Suggestions
+Note that mentioning the time is optional and it'll default to 900 seconds i.e. 15 mins, if no time is mentioned in the time field. The option is available in case you need to run a game for a shorter or longer duration than the default of 15 minutes.
 
-If you're facing window size issues, just resize it manually to around a (800px, 600px) size for now. I will make it manually always have the size of (800, 600) in the next version. The next version will also include a default time value of 900 seconds to make it easier to run quests for 15 minutes by default without having to mention it.
+## Feedback & Suggestions
 
 If anyone has any ideas on things that could be added to this project, or if you'd like to suggest new features, feel free to do so! I'll also try to help out with any issues being faced via the subreddit post or on here <3
 
