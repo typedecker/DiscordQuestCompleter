@@ -3,6 +3,10 @@
 Welcome to the README of the Discord Quest Completer project. This program's sole aim is to automate the typically manual work of creating a virtual path to run a dummy executable from, to simulate the completion of a discord quest that involves playing a game.
 Specific utilities have been added to ensure an easier workflow for those using the program.
 
+## How to download the program or where to download it from?
+
+The code/files within the repo itself are only for viewing purposes incase someone wants to ensure the safety of the code behind this program. To be able to run the actual program, you must download the .exe file from the latest release of this repository.
+
 ## How to use it?
 
 **This only works on windows and I cannot guarantee the working of this program for other Operating Systems. Keep that in mind as you read ahead.**
