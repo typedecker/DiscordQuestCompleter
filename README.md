@@ -41,6 +41,15 @@ If anyone has any ideas on things that could be added to this project, or if you
 
 Furthermore, if anyone has an idea on how to fetch the depot information without having to use a steam api key or having to login non-anonymously using code -- then let me know and we can add that to the project to make it robust and have it work in every single case <3. Also for anyone looking into this -- I've already looked through the python steam module docs and I am aware of the cdn client being used for depot info, but my previous attempts at fetching depot info that way, have failed and it always returns an empty list.
 
+## Future Plans
+
+I am open to any and all suggestions and improvements ofcourse, but this section will highlight some of the personally desired features I'd like to add to this program:
+1. Adding clickable/selectable options by default for commonly appearing quest games like Where Winds Meet.
+2. Possibly finding a fix to the issue of not being able to locate the right path all the time -- by somehow figuring out a way of fetching the depot information or using some other workaround to fetch the original path.
+3. Might add the option for the program to auto detect the addition of new quests and notify the user if they turn the option on, of the availability of the new quest. The user can then click on the notification to auto-launch the game without even having to type the game in manually.
+4. Perhaps utilizing the reddit api and r/DiscordQuests to fetch the missing info regarding quests.
+5. Find a .png via steam CDN or elsewhere, for the game that is being simulated, and make the dummy .exe run with that icon.
+
 ---
 
 ## Disclaimer & Limitation of Liability
