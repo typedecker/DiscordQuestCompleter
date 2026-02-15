@@ -5,6 +5,8 @@ Specific utilities have been added to ensure an easier workflow for those using 
 
 ## How to use it?
 
+**This only works on windows and I cannot guarantee the working of this program for other Operating Systems. Keep that in mind as you read ahead.**
+
 In most basic cases, you can just type the name of the game you want to run, mention the number of seconds for which you'd like to "play" that game[leaving the time field empty will make it default to 900 seconds i.e. 15 mins], leave the address field empty and hit the launch button; the program will typically figure out the launch path on it's own using the steam API.
 
 <img width="568" height="513" alt="image" src="https://github.com/user-attachments/assets/94bdaa8e-4811-4f08-82a8-58d6e5292060" />
