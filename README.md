@@ -7,6 +7,8 @@ Specific utilities have been added to ensure an easier workflow for those using 
 
 The code/files within the repo itself are only for viewing purposes incase someone wants to ensure the safety of the code behind this program. To be able to run the actual program, you must download the .exe file from the latest release of this repository.
 
+Also, make sure you have steam installed on your system. This program may work without it, but theres no guarantee of it.
+
 ## How to use it?
 
 **This only works on windows and I cannot guarantee the working of this program for other Operating Systems. Keep that in mind as you read ahead.**
@@ -34,6 +36,11 @@ The code/files within the repo itself are only for viewing purposes incase someo
 * Note that mentioning the time is optional and it'll default to 900 seconds i.e. 15 mins, if no time is mentioned in the time field. The option is available in case you need to run a game for a shorter or longer duration than the default of 15 minutes.
 
 * For games that you already own, you won't lose the original .exe, as it'll temporarily rename the original exe whilst running itself, and then put the original .exe back in place when its done. Also any and all directories manually created during the running of this program are deleted after the "simulated" game has stopped running.
+
+
+## Commonly Faced Issue & it's solution
+
+If you run into an error wherein it says that the path is invalid or something, just go to `C:/Program Files(x86)/Steam/steamapps/common/` and look for the folder mentioned in the error and delete it entirely, and close out of the program as well. Now restart the program and try again, the error should be gone.
 
 ## Feedback & Suggestions
 
